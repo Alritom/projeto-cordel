@@ -6,10 +6,10 @@ Projeto realizado durante o curso de HTML5 e CSS3 do **Curso em Vídeo**.
 ## Tech Stack
 * HTML5
 * CSS3
-* Git/GitHub
+* GitHub Desktop/GitHub
 
 ## Destaques
-* Uso de fontes personalizadas (@font-face e Google Fonts).
+* Uso de fontes personalizadas (@Google Fonts).
 * Efeito Parallax em imagens de background.
 * Organização semântica do código.
 
